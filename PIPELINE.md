@@ -18,3 +18,10 @@ Narrator: Kokoro `am_onyx`, speed 0.9, then ffmpeg chain in voice_gen notes (pit
 
 From Episode 2 on: short 5–8 s branded sting instead of Episode 1's long series intro.
 Map is a stylised subcontinent outline; check against Survey of India before any episode that shows modern borders.
+
+## Thumbnail (every episode)
+Formula agreed 22 Nov 2026: dark-and-gold cinematic look; one large painted hero image or collage (artefacts / ruler / battle) in warm golden light;
+3–4 words of huge bold text (gold + white, question or promise); small gold "EP N" badge top-left; no clutter. 1280×720 JPG.
+Made in Canva: generate-image for the painted art (leave left third darker for text), then create-design "YouTube Thumbnail" with the art + text, export JPG.
+Episode 1: "HOW DO WE KNOW?" over Indus seal, Ashoka lion capital, punch-marked coin, Bhimbetka rock art (Canva design DAHbo61inNM).
+Check any map in the art: AI maps of India are often wrong — avoid or keep it a soft glow.
