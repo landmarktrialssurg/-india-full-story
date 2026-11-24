@@ -25,3 +25,9 @@ Formula agreed 22 Nov 2026: dark-and-gold cinematic look; one large painted hero
 Made in Canva: generate-image for the painted art (leave left third darker for text), then create-design "YouTube Thumbnail" with the art + text, export JPG.
 Episode 1: "HOW DO WE KNOW?" over Indus seal, Ashoka lion capital, punch-marked coin, Bhimbetka rock art (Canva design DAHbo61inNM).
 Check any map in the art: AI maps of India are often wrong — avoid or keep it a soft glow.
+
+## Bilingual episodes (from Episode 2)
+One video, two audio tracks: English (Kokoro am_onyx, speed 0.9) + Hindi (Kokoro hm_omega, speed 1.0), same voice chain.
+Each scene lasts the longer of the two narrations (ep2.mjs reads en_tim.json + hi_tim.json). On-screen text is bilingual (English + Hindi in Tiro Devanagari Hindi / Noto Sans Devanagari); no burned-in subtitles — upload captions_en.srt and captions_hi.srt instead.
+Audio: mix.py places each language's lines on the shared timeline, music ducked under the voice, then gain to -14 LUFS + limiter (no loudnorm: it lifts the music in pauses).
+Upload: main video with English audio; add the Hindi track in Studio > Languages > Add audio (Hindi). Fallback if that is not available: the Hindi-only version.
